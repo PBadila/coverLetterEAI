@@ -36,7 +36,7 @@ body{
 }
 
 .standard{
-    font-size: 20px;
+    font-size:01.5vw;
     font-weight: 300;
     font-family: var(--main-font);
 
@@ -193,6 +193,11 @@ body{
     height:100vh;
     padding-top:0;
    
+}
+
+.standard{
+    margin-top:5px;
+    margin-bottom:5px;
 }
 .half{
     position:absolute;
